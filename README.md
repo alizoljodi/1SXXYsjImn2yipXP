@@ -1,4 +1,4 @@
-# 🔍 Potential Talents – AI-Powered Candidate Ranking System
+# 🔍 Potential Talents
 
 **Potential Talents** is an intelligent candidate ranking system designed to streamline the process of identifying top-matching candidates for technical and HR roles. By combining traditional text similarity techniques with modern embeddings and large language models (LLMs), the system helps recruiters surface high-quality candidates quickly and accurately.
 
